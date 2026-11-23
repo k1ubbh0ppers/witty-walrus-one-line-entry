@@ -1,8 +1,8 @@
 # One Line That Makes a Builder Fund a Bounty
 
 [![make.fun](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf.svg)](https://make.fun/c/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
-[![Rank](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/k1ubbh0ppers/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/rank.svg)](https://make.fun/c/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
-[![Reward](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/k1ubbh0ppers/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/reward.svg)](https://make.fun/c/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
+[![Rank](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/k1ubbh0ppers/witty-walrus-one-line-entry/rank.svg)](https://make.fun/c/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
+[![Reward](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/k1ubbh0ppers/witty-walrus-one-line-entry/reward.svg)](https://make.fun/c/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
 
 A tiny Python 3 script for the make.fun bounty of the same name. It does
 one thing: it writes a single pitch sentence to `entry.txt` in the output
